@@ -1,0 +1,11 @@
+{
+  "name": "markov",
+  "version": "1.0.0",
+  "description": "",
+  "main": "markov",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Treyvion Johnson",
+  "license": "ISC"
+}
